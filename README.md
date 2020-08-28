@@ -50,13 +50,10 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
   **🏆 Stats**
 
-![Đinh Đức Thiện's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuinhanne&hide=["stars"]&show_icons=true)
+![Đinh Đức Thiện's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meocaca-kits&hide=["stars"]&show_icons=true)
 
-</details>
 
 [facebook]: https://facebook.com/meocacahaha
 ![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
