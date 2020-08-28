@@ -24,23 +24,14 @@
 
 <br />
 
-### Languages and Tools:
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+**👨🏻‍💻 Languages and tools**
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/meocaca-kits) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/meocaca-kits) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/meocaca-kits) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/meocaca-kits) ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)<br />
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/meocaca-kits) [![Vue.js](https://img.shields.io/badge/-Vuejs-grey?style=flat&logo=vue.js)](https://github.com/meocaca-kits)  [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=Mongodb)](https://github.com/meocaca-kits) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/meocaca-kits)<br />
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/meocaca-kits) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/meocaca-kits)
 
 ---
 
@@ -62,8 +53,11 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+  **🏆 Stats**
+
+![Đinh Đức Thiện's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuinhanne&hide=["stars"]&show_icons=true)
 
 </details>
 
 [facebook]: https://facebook.com/meocacahaha
-
+![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
