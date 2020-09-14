@@ -34,16 +34,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
--- Updating
----
-
-### 📕 Latest Blog Posts
-
--- Updating
-
----
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
